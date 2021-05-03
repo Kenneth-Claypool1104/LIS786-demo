@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 collections:
   movies:
     output: true
-      layout: movies
+    layout: movies
